@@ -1,0 +1,1 @@
+Verbal is the explicit type of communication, and the information is conveyed directly through a medium like [[Language|language]].

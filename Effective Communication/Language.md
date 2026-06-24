@@ -1,0 +1,1 @@
+Language is a set of words, phrases, and sentences that are mapped to ideas, can be exchanged to others and understood collectively. It is related to [[Tone|tone]].

@@ -1,0 +1,1 @@
+Noise is an element of communication where the message can be interfered away from its original meaning.

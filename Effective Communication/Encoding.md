@@ -1,0 +1,1 @@
+Encoding is the process of converting information into a [[Medium|medium]] where it can be transmitted.

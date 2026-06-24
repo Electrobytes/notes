@@ -1,0 +1,1 @@
+It is the process done by the [[Receiver|listener(s)]] to interpret the medium back to ideas.

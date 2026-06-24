@@ -1,0 +1,1 @@
+Communication is the process of sharing or exchanging information between two people (or generally speaking, two living things). Every conversation follows a looping [[Model|model]]. Additionally, communication contains two [[Types|types]] of it, and every message conveyed has an underlying [[Meaning|meaning]] to it and can be influenced by many factors

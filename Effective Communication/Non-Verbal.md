@@ -1,0 +1,1 @@
+Non-Verbal is the implicit part of communication; it can provide additional context to a message without directly mentioning it, and one primary example of this is [[Tone|tone]].

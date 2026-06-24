@@ -1,0 +1,1 @@
+Rotation is where all points of a shape is rotated along an arbitrary [[Center of Rotation|center]].

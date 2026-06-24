@@ -1,0 +1,1 @@
+A topic can be [[Personal|personal]] or [[Interpersonal|interpersonal]].

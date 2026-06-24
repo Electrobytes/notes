@@ -1,0 +1,1 @@
+Image is the shape after a transformation is made to it.

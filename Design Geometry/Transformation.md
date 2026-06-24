@@ -1,0 +1,1 @@
+It is a function or operation that modifies the shape in a predictable and consistent way. Shapes can be classified as [[Pre-Image|pre-image]] and [[Image|image]] depending if the shape shown is transformed already or not. These transformations may be [[Rigid|rigid]] or [[Non-Rigid|non-rigid]].

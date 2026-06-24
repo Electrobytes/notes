@@ -1,0 +1,1 @@
+Interpersonal topic is ordinary in nature and does not invoke strong emotion from both parties.

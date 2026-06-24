@@ -1,0 +1,1 @@
+Feedback is when the listener acknowledges the information given by the speaker, and the listener would provide the speaker information in return; therefore, switching the roles and repeating the process again from the [[Sender|speaker]].

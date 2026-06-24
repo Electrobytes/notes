@@ -1,0 +1,1 @@
+A personal topic is where the speaker is left vulnerable with his/her information given due to its sensitive nature.

@@ -1,0 +1,1 @@
+It is a characteristic of a shape to be identical after undergoing [[Transformation|geometric transformation]].

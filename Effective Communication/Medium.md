@@ -1,0 +1,1 @@
+The medium is the information conveyed in a transmittable format where it can be [[Decoding|decoded]] by the listener, and it may be interrupted or interfered by [[Noise|noise]].

@@ -1,0 +1,1 @@
+Sender, also known as speaker is the one that sends the information to the listener, and the message conveyed will undergo [[Encoding|encoding]].

@@ -1,0 +1,1 @@
+Center of Rotation is a point where all the vertices of a polygon rotates around it.

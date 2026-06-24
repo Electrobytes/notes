@@ -1,0 +1,1 @@
+Reflection is made using an line where if its treated as a line of symmetry, and pre-image and image would qualify together as a reflection symmetry.

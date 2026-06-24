@@ -1,0 +1,1 @@
+Pre-Image is the shape before a transformation takes place.

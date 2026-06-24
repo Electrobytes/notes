@@ -1,0 +1,1 @@
+Tone shows emotion and attitude in a language. It provides context to a message implicitly. It is related to [[Language|language]].

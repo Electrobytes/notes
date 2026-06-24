@@ -1,0 +1,1 @@
+The receiver is the one who receives the information given by the speaker and provides [[Feedback|feedback]] where the roles switch between the two actors.

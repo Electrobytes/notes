@@ -1,0 +1,1 @@
+Meaning is the association between an idea and its message. It can be influenced such as [[Audience|audience]], [[Purpose|purpose]], and [[Topic|topic]],

@@ -1,0 +1,1 @@
+There are two types of communication, namely, [[Verbal|verbal]] and [[Non-Verbal|non-verbal]].
