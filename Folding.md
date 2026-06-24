@@ -1,0 +1,1 @@
+Folding, or reflection, symmetry forms a mirror image at the other side of the [[Line of Symmetry|line of symmetry]].

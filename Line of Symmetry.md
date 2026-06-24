@@ -1,0 +1,1 @@
+Line of Symmetry is a line where the shape would create an identical mirror image to each of the sides.

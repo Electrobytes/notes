@@ -1,0 +1,1 @@
+Rotational symmetry is where the shape is still similar after rotating on a point called [[Center of Rotation|center of rotation]].

@@ -1,1 +1,1 @@
-It is a characteristic of a shape to be identical after undergoing [[Transformation|geometric transformation]].
+It is a characteristic of a shape to be identical after undergoing [[Transformation|geometric transformation]]. These symmetries can be [[Translational|translational]], [[Rotational|rotational]], [[Folding|reflection]].

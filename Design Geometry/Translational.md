@@ -1,0 +1,1 @@
+Translational symmetry is where the shape is the same after it is being shifted.
