@@ -1,0 +1,1 @@
+A generalized term for something that changes the position of an object. It can be classified as [[Translational Motion|translational]] or [[Rotational Motion|rotational]].

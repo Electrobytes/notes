@@ -1,0 +1,1 @@
+Angular displacement is a vector quantity that measures both the change in position and rotation; therefore, both the angle of rotation and the distance of the center of rotation are directly proportional.

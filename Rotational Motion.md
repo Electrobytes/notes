@@ -1,0 +1,1 @@
+Rotational Motion rotates an object around an arbitrary center of rotation. The vector quantity that measures this is [[Angular displacement|angular displacement]].

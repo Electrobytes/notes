@@ -1,0 +1,1 @@
+Translational motion moves an object in a path which can either be straight or curved, and the vector quantity for its change is [[Linear Displacement|linear displacement]].

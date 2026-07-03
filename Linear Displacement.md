@@ -1,0 +1,1 @@
+Linear Displacement is a vector quantity that measures the change in position of an object.
