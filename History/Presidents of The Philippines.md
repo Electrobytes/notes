@@ -1,4 +1,4 @@
-- [[Pre-Independence]]
-- [[Third Republic]]
+- [[Presidents - Pre-Independence]]
+- [[Presidents - Third Republic]]
 - [[Fourth Republic]]
 - [[Fifth Republic]]
