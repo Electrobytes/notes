@@ -1,0 +1,1 @@
+U can read directly here in your browser, but it would be better to use [obsidian](https://obsidian.md/).
