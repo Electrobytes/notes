@@ -1,5 +1,5 @@
-- [[Period - Precolonial]]
-- [[Period - Spanish Occupation|Spanish occupation]]
-- [[Period - American Occupation|American occupation]]
-- [[Period - Japanese Occupation|Japanese occupation]]
+- [[Period - Precolonial]](Period%20-%20Precolonial.md)
+- [[Period - Spanish Occupation|Spanish occupation]](Period%20-%20Spanish%20Occupation)
+- [[Period - American Occupation|American occupation]](Period%20-%20American%20Occupation)
+- [[Period - Japanese Occupation|Japanese occupation]](Period%20-%20Japanese%20Occupation)
 - [[Post-independence]]
