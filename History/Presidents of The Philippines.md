@@ -4,7 +4,7 @@
 - [[Presidents - Fifth Republic]]
 
 ## Readable ver.
-- [Presidents - Pre-Independence]("Presidents - Pre-Independence.md")
+- [Presidents - Pre-Independence](Presidents%20-%20Pre-Independence.md)
 - [Presidents - Third Republic]("Presidents - Third Republic.md")
 - [Presidents - Fourth Republic]("Presidents - Fourth Republic.md")
 - [Presidents - Fifth Republic]("Presidents - Fifth Republic.md")
