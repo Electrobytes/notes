@@ -1,0 +1,1 @@
+The Philippines is an archipelagic state located in Southeast Asia comprising 7,641 islands. Its history can be divided into [[History of The Philippines|4 periods]]. For the entirety of its independence, there have been 17 presidents which can be categorized by[[Presidents of The Philippines|4 periods]].

@@ -1,0 +1,6 @@
+- [[Manuel Roxas]]
+- [[Elpidio Quirino]]
+- [[Ramon Magsaysay]]
+- [[Carlos P. Garcia]]
+- [[Diodado Macapagal]]
+- [[Ferdinand Marcos Sr.]]

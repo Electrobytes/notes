@@ -1,0 +1,4 @@
+- [[Emilio Aguinaldo]]
+- [[Manuel Quezon]]
+- [[Jose P. Laurel]]
+- [[Sergio Osmena]]

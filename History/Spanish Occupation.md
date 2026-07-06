@@ -1,0 +1,1 @@
+The Spanish colonization period did not start when Magellan stepped foot onto one of the islands of the Philippines but started later on in *1565* when the Captaincy General of the Philippines was officially established. The Spanish rule ended on June 12, 1898 when Emilio Aguinaldo declared independence against them.

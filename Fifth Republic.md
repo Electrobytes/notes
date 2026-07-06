@@ -1,0 +1,7 @@
+- [[Corazon Aquino]]
+- [[Fidel Ramos]]
+- [[Joseph Estrada]]
+- [[Gloria Macapagal Arroyo]]
+- [[Benigno Aquino III]]
+- [[Rodrigo Duterte]]
+- [[Ferdinand Marcos Jr.]]

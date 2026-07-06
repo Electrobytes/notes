@@ -1,0 +1,5 @@
+- [[Precolonial]]
+- [[Spanish Occupation|Spanish occupation]]
+- [[American Occupation|American occupation]]
+- [[Japanese Occupation|Japanese occupation]]
+- [[Post-independence]]

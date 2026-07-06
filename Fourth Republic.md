@@ -1,0 +1,1 @@
+The sole president of the Fourth Republic is [[Ferdinand Marcos Sr.]]

@@ -1,0 +1,1 @@
+During World War II, the Philippines fell into the hands of the Imperial Japan on 1942 when Corregidor, the last region under control by both the US and the Philippines, was successfully captured by the Japanese. US and the Philippines later regained control of the entire nation in 1945.

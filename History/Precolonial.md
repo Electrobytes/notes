@@ -1,0 +1,1 @@
+Precolonial period ended on March 16, 1521 when Ferdinand Magellan arrived at Samar Island. This period debunks the claim that western powers brought civilization here. It has been estimated that the Laguna Copperplate Inscription was written during this period, specifically April 21, 900.
