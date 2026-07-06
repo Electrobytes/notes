@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"6b4339697e9816df","type":"text","text":"# Japanese Occupation\n\nDuring World War II, the Philippines fell into the hands of the Imperial Japan on 1942 when Corregidor, the last region under control by both the US and the Philippines, was successfully captured by the Japanese. US and the Philippines later regained control of the entire nation in 1945.","x":-906,"y":610,"width":502,"height":220},
+		{"id":"da347539ccfbce6e","x":-500,"y":855,"width":303,"height":216,"type":"text","text":"# Pre-Independence\n- [[Emilio Aguinaldo]]\n- [[Manuel Quezon]]\n- [[Jose P. Laurel]]\n- [[Sergio Osmena]]"},
+		{"id":"c64ac94dc1cc76d7","x":-162,"y":721,"width":253,"height":268,"type":"text","text":"# Third Republic\n- [[Manuel Roxas]]\n- [[Elpidio Quirino]]\n- [[Ramon Magsaysay]]\n- [[Carlos P. Garcia]]\n- [[Diodado Macapagal]]\n- [[Ferdinand Marcos Sr.]]"},
+		{"id":"08b34ad0ee924e36","x":160,"y":670,"width":250,"height":160,"type":"text","text":"# Fourth Republic\nThe sole president of the Fourth Republic is [[Ferdinand Marcos Sr.]]"},
+		{"id":"577cf7571c176a3d","type":"text","text":"# History\n- [[Period - Precolonial]]\n- [[Period - Spanish Occupation|Spanish occupation]]\n- [[Period - American Occupation|American occupation]]\n- [[Period - Japanese Occupation|Japanese occupation]]\n- [[Post-independence]]","x":-750,"y":-27,"width":250,"height":347},
+		{"id":"28b048c002b3acbd","type":"text","text":"# Presidents\n- [[Presidents - Pre-Independence]]\n- [[Presidents - Third Republic]]\n- [[Presidents - Fourth Republic]]\n- [[Presidents - Fifth Republic]]","x":-417,"y":320,"width":470,"height":227},
+		{"id":"6b1a41f3bc9c729a","type":"text","text":"# Philippines\n\nThe Philippines is an archipelagic state located in Southeast Asia comprising 7,641 islands. Its history can be divided into [[History of The Philippines|4 periods]]. For the entirety of its independence, there have been 17 presidents which can be categorized by [[Presidents of The Philippines|4 periods]].","x":-417,"y":-7,"width":440,"height":264},
+		{"id":"f66f522f68d837ac","x":160,"y":288,"width":250,"height":292,"type":"text","text":"# Fifth Republic\n- [[Corazon Aquino]]\n- [[Fidel Ramos]]\n- [[Joseph Estrada]]\n- [[Gloria Macapagal Arroyo]]\n- [[Benigno Aquino III]]\n- [[Rodrigo Duterte]]\n- [[Ferdinand Marcos Jr.]]"},
+		{"id":"721ffde016cdd623","type":"text","text":"# Precolonial\nPrecolonial period ended on March 16, 1521 when Ferdinand Magellan arrived at Samar Island. This period debunks the claim that western powers brought civilization here. It has been estimated that the Laguna Copperplate Inscription was written during this period, specifically April 21, 900.","x":-1300,"y":257,"width":520,"height":233},
+		{"id":"a4ceed92aa66f849","type":"text","text":"# Spanish Occupation\nThe Spanish colonization period did not start when Magellan stepped foot onto one of the islands of the Philippines but started later on in *1565* when the Captaincy General of the Philippines was officially established. The Spanish rule ended on June 12, 1898 when Emilio Aguinaldo declared independence against them.","x":-1300,"y":547,"width":370,"height":280},
+		{"id":"897d34503514f393","type":"text","text":"# American Occupation\n\nAfter the Treaty of Paris of 1989 which marked the end of Spanish-American war, these two nations agreed on exchanging archipelagos and islands including the entirety of the Philippines which is now under the United States' control. From there, the Philippines, which recently declared independence from Spain, fought another war against the US in the Filipino-American war. The war concluded with American victory and established a commonwealth dependency there.","x":-1200,"y":900,"width":540,"height":280}
+	],
+	"edges":[
+		{"id":"f1d4bc0f70069c15","fromNode":"577cf7571c176a3d","fromSide":"bottom","toNode":"a4ceed92aa66f849","toSide":"top"},
+		{"id":"b2308fb1090db121","fromNode":"577cf7571c176a3d","fromSide":"bottom","toNode":"721ffde016cdd623","toSide":"top"},
+		{"id":"b86bbf15cde26936","fromNode":"577cf7571c176a3d","fromSide":"bottom","toNode":"897d34503514f393","toSide":"top"},
+		{"id":"918ffc807133731f","fromNode":"577cf7571c176a3d","fromSide":"bottom","toNode":"6b4339697e9816df","toSide":"top"},
+		{"id":"4552e69d55055258","fromNode":"28b048c002b3acbd","fromSide":"bottom","toNode":"da347539ccfbce6e","toSide":"top"},
+		{"id":"dff66a75febb7bcf","fromNode":"28b048c002b3acbd","fromSide":"bottom","toNode":"c64ac94dc1cc76d7","toSide":"top"},
+		{"id":"8214192fabfbd042","fromNode":"6b1a41f3bc9c729a","fromSide":"left","toNode":"577cf7571c176a3d","toSide":"right"},
+		{"id":"3e095cf5934c83d1","fromNode":"6b1a41f3bc9c729a","fromSide":"bottom","toNode":"28b048c002b3acbd","toSide":"top"},
+		{"id":"2999b0e9756a1029","fromNode":"28b048c002b3acbd","fromSide":"right","toNode":"08b34ad0ee924e36","toSide":"left"},
+		{"id":"92826b5d6361791d","fromNode":"28b048c002b3acbd","fromSide":"right","toNode":"f66f522f68d837ac","toSide":"left"}
+	]
+}
