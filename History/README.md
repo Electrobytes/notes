@@ -1,2 +1,0 @@
-- [Presidents of The Philippines](Presidents%20of%20The%20Philippines.md)
-- [History of The Philippines](History%20of%20The%20Philippines.md)

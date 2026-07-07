@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"cb8bd837bf66a9d4","type":"file","file":"History/Philippines.md","x":-382,"y":34,"width":400,"height":223},
+		{"id":"652cb046f76b1740","x":-700,"y":26,"width":239,"height":294,"type":"file","file":"History/History of The Philippines.md"},
+		{"id":"fab8247c0ff1e43e","x":-341,"y":372,"width":318,"height":237,"type":"file","file":"History/Presidents of The Philippines.md"},
+		{"id":"044bee87c374406b","x":-1300,"y":248,"width":468,"height":248,"type":"file","file":"History/Period - Precolonial.md"},
+		{"id":"607f39990c646e1b","x":-1330,"y":594,"width":400,"height":252,"type":"file","file":"History/Period - Spanish Occupation.md"},
+		{"id":"42dd90cb340d8a9b","x":-861,"y":594,"width":400,"height":229,"type":"file","file":"History/Period - Japanese Occupation.md"},
+		{"id":"720ea0f23d168c58","x":-1100,"y":963,"width":400,"height":331,"type":"file","file":"History/Period - American Occupation.md"},
+		{"id":"9f2469d6b516d4d7","x":-661,"y":963,"width":400,"height":194,"type":"file","file":"History/Presidents - Pre-Independence.md"},
+		{"id":"bd2ef1eed2491a91","x":-182,"y":1007,"width":400,"height":243,"type":"file","file":"History/Presidents - Third Republic.md"},
+		{"id":"387c63e090b87118","x":240,"y":257,"width":400,"height":276,"type":"file","file":"History/Presidents - Fifth Republic.md"},
+		{"id":"af6825d3e77abea7","x":240,"y":694,"width":400,"height":129,"type":"file","file":"History/Presidents - Fourth Republic.md"}
+	],
+	"edges":[
+		{"id":"72bc17db24ab731c","fromNode":"cb8bd837bf66a9d4","fromSide":"left","toNode":"652cb046f76b1740","toSide":"right"},
+		{"id":"d7cb34fac30f8353","fromNode":"cb8bd837bf66a9d4","fromSide":"bottom","toNode":"fab8247c0ff1e43e","toSide":"top"},
+		{"id":"2f03e528c0f20aa0","fromNode":"652cb046f76b1740","fromSide":"left","toNode":"044bee87c374406b","toSide":"top"},
+		{"id":"fc864175c30a01c0","fromNode":"652cb046f76b1740","fromSide":"left","toNode":"607f39990c646e1b","toSide":"top"},
+		{"id":"0e440eb237679b87","fromNode":"652cb046f76b1740","fromSide":"bottom","toNode":"42dd90cb340d8a9b","toSide":"top"},
+		{"id":"a603198644208d85","fromNode":"652cb046f76b1740","fromSide":"bottom","toNode":"720ea0f23d168c58","toSide":"top"},
+		{"id":"cbb50f7f407fbaa0","fromNode":"fab8247c0ff1e43e","fromSide":"bottom","toNode":"9f2469d6b516d4d7","toSide":"top"},
+		{"id":"913add77809d38c9","fromNode":"fab8247c0ff1e43e","fromSide":"bottom","toNode":"bd2ef1eed2491a91","toSide":"top"},
+		{"id":"bffa1764b1a268b3","fromNode":"fab8247c0ff1e43e","fromSide":"right","toNode":"af6825d3e77abea7","toSide":"left"},
+		{"id":"0ec9eb0c76995b17","fromNode":"fab8247c0ff1e43e","fromSide":"right","toNode":"387c63e090b87118","toSide":"left"}
+	]
+}
