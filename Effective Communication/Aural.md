@@ -1,0 +1,1 @@
+Aural uses audio or any information that is received from the ear.

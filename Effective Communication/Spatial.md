@@ -1,0 +1,1 @@
+Spatial utilizes space between elements or objects to provide meaning to it.

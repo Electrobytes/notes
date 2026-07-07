@@ -1,0 +1,1 @@
+A gestural mode of communication uses bodily movements to deliver information.

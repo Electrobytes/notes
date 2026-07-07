@@ -1,0 +1,1 @@
+A message is considered as multimodal if it contains two or more modes of communication.

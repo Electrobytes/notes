@@ -1,0 +1,1 @@
+Linguistic include both spoken and written texts.

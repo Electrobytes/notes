@@ -1,0 +1,1 @@
+Perspective is the point of view of a person and may be influenced by [[Cultural Lens|cultural lenses]], [[Aural Clues|aural clues]], [[Modes of Persuasion|modes of persuasion]], [[Level of Context|level of context]], [[Level of Meaning]], [[Angle|angle]], [[Distance and Position|distance and position]].

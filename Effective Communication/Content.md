@@ -1,0 +1,1 @@
+The content is what is explicitly said or mentioned in a message.

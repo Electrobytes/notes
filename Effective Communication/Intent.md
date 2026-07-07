@@ -1,0 +1,1 @@
+The intent is the purpose why a conversation took place.

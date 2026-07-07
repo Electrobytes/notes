@@ -1,0 +1,1 @@
+Visual information is anything that can be interpreted from our eyes.

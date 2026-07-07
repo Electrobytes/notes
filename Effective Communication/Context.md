@@ -1,0 +1,1 @@
+The context is the additional information that is beyond the message conveyed.
