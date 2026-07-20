@@ -1,1 +1,1 @@
-Fluid is a substance that can take shape of its container. The behavior of a liquid may vary due to its [[Properties of Fluid|properties]].
+Fluid is a substance that can take shape of its container. The behavior of a liquid may vary due to its [[Properties of Fluid|properties]]. Due to the nature of an incompressible fluid, [[Pascal's Law]] may be applied such as hydraulics. The ability for an object to stay afloat on a fluid is called [[Buoyant Force|buoyancy]]
