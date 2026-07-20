@@ -1,0 +1,1 @@
+According to [[Charles' Law]], The temperature of a matter is directly proportional to its volume.

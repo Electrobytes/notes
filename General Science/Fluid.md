@@ -1,0 +1,1 @@
+Fluid is a substance that can take shape of its container. The behavior of a liquid may vary due to its [[Properties of Fluid|properties]].
