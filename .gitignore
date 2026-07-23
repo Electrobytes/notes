@@ -1,2 +1,4 @@
-.obsidian/*
-!.obsidian/app.json
+# These stuff are extremely volatile, and their changes are typically useless.
+.obsidian/graph.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
