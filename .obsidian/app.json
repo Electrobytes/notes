@@ -1,0 +1,7 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": true,
+  "userIgnoreFilters": [
+    "/.*\\.canvas/"
+  ]
+}
