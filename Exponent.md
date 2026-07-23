@@ -1,0 +1,1 @@
+Since the mantissa is shortened to ones digit, the exponent part of the scientific notation allows it to be equal even though the mantissa is far from the original value.

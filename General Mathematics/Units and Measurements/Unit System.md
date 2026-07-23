@@ -1,0 +1,1 @@
+A unit system is a collection of measurements and typically have simple conversion formulas within it. The two most dominant unit systems are the [[Metric|metric]] and [[English|English or imperial]] system.
