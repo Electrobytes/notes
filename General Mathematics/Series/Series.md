@@ -1,0 +1,1 @@
+Series is the sum of a sequence and may be expressed using the [[Summation Notation|summation notation]]. Additionally, the sum of an arithmetic or geometric sequence is called the arithmetic series and geometric series respectively.

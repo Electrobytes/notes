@@ -4,7 +4,7 @@ Formula:
 $$
 A = P(1 + \frac{r}{n})^{(r)(t)}
 $$
-Where $A$ is the resulting maturity value, $r$ is the interest rate in decimal form. The $n$ refers to how frequent the interest will be added on top of the maturity value.
+Where $A$ is the resulting maturity value, $r$ is the interest rate in decimal form. The $n$ refers to how frequent the interest will be added on top of the maturity value, and $t$ is the time elapsed.
 
 | frequency     | $n$ |
 | ------------- | --- |
