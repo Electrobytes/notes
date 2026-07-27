@@ -1,0 +1,1 @@
+Sequence is a set of numbers following a formula or rule. These numbers are ordered and linked to an [[index]].

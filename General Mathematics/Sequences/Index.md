@@ -1,0 +1,1 @@
+The index is the position of a value in a given sequence which is called the [[Term|term]].

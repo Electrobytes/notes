@@ -1,0 +1,1 @@
+The nth term of a sequence is the value located at index n.

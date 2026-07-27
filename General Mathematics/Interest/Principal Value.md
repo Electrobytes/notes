@@ -1,0 +1,1 @@
+The principal value ($P$) is the amount initially borrowed from the lender.

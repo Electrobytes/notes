@@ -1,0 +1,1 @@
+The maturity value ($A$) is the amount needed to return to the lender after a given period.

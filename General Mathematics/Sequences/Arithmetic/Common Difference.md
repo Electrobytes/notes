@@ -1,0 +1,1 @@
+The common difference, denoted as $d$, is the distance or difference between two adjacent terms.
