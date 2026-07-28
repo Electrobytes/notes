@@ -1,1 +1,1 @@
-Sequence is a set of numbers following a formula or rule. These numbers are ordered and linked to an [[index]]. Sequences can be classified as [[Arithmetic Sequence|arithmetic]], [[Geometric Sequence|geometric]], harmonic, or [[Fibonacci Sequence|Fibonacci]].
+Sequence is a set of numbers following a formula or rule. These numbers are ordered and linked to an [[index]]. Sequences can be classified as [[Arithmetic Sequence|arithmetic]], [[Geometric Sequence|geometric]], harmonic, or [[General Mathematics/Sequences/Fibonacci Sequence|Fibonacci]].

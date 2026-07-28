@@ -1,0 +1,1 @@
+Transpose flips the rows and columns; therefore, the rows would now be the columns and vice versa.

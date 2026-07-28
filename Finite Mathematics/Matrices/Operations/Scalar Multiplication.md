@@ -1,0 +1,1 @@
+Scalar multiplication simple distribute the multiplier to all the elements of a matrix and multiplying them.

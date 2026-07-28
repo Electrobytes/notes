@@ -1,0 +1,1 @@
+The golden spiral is a spiral following the tiling of squares with side length of the terms found in the Fibonacci sequence.

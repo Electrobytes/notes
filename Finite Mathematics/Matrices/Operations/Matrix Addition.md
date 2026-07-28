@@ -1,0 +1,1 @@
+Matrix addition/subtraction adds all the elements of a matrix to another one with the same order and matching the index of both matrices.

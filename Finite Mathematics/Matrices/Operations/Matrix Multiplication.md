@@ -1,0 +1,1 @@
+The prerequisite of matrix multiplication is that the number of columns of the multiplier (the left side) should match the number of rows of the multiplicand (the right side).
