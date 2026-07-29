@@ -1,16 +1,16 @@
 {
 	"nodes":[
-		{"id":"75571b6c9f56b7c6","type":"file","file":"General Science/Fluid.md","x":-380,"y":-400,"width":400,"height":240,"color":"5"},
-		{"id":"864f118868febdf5","type":"file","file":"General Science/Properties of Fluid.md","x":-900,"y":-300,"width":400,"height":187,"color":"4"},
-		{"id":"9570f8813aef0174","type":"file","file":"General Science/Density.md","x":-1440,"y":-295,"width":400,"height":270},
-		{"id":"456dca4a2001a5bb","type":"file","file":"General Science/Pressure.md","x":-1180,"y":14,"width":400,"height":300},
-		{"id":"0c2466cc4c54ba6c","type":"file","file":"General Science/Viscosity.md","x":-760,"y":164,"width":400,"height":136},
-		{"id":"67b502fdb09bc44c","type":"file","file":"General Science/Temperature Volume Relationship.md","x":-520,"y":-108,"width":400,"height":166},
-		{"id":"8bf8431f35a496a8","type":"file","file":"General Science/Charles' Law.md","x":-179,"y":82,"width":204,"height":218},
-		{"id":"bd56a19b42c2d624","type":"file","file":"General Science/Pascal's Law.md","x":-1400,"y":-729,"width":533,"height":400},
-		{"id":"21ffd8296aa3d850","type":"file","file":"General Science/Archimedes' Principle.md","x":-867,"y":-841,"width":400,"height":225},
+		{"id":"75571b6c9f56b7c6","type":"file","file":"General Science/Fluid/Fluid.md","x":-380,"y":-400,"width":400,"height":240,"color":"5"},
+		{"id":"864f118868febdf5","type":"file","file":"General Science/Fluid/Properties of Fluid.md","x":-900,"y":-300,"width":400,"height":187,"color":"4"},
+		{"id":"9570f8813aef0174","type":"file","file":"General Science/Fluid/Density.md","x":-1440,"y":-295,"width":400,"height":270},
+		{"id":"456dca4a2001a5bb","type":"file","file":"General Science/Fluid/Pressure.md","x":-1180,"y":14,"width":400,"height":300},
+		{"id":"0c2466cc4c54ba6c","type":"file","file":"General Science/Fluid/Viscosity.md","x":-760,"y":164,"width":400,"height":136},
+		{"id":"67b502fdb09bc44c","type":"file","file":"General Science/Fluid/Temperature Volume Relationship.md","x":-520,"y":-108,"width":400,"height":166},
+		{"id":"8bf8431f35a496a8","type":"file","file":"General Science/Fluid/Charles' Law.md","x":-179,"y":82,"width":204,"height":218},
+		{"id":"bd56a19b42c2d624","type":"file","file":"General Science/Fluid/Pascal's Law.md","x":-1400,"y":-729,"width":533,"height":400},
+		{"id":"21ffd8296aa3d850","type":"file","file":"General Science/Fluid/Archimedes' Principle.md","x":-867,"y":-841,"width":400,"height":225},
 		{"id":"b982165fad770621","type":"text","text":"# Principles","x":-671,"y":-460,"width":171,"height":60,"color":"4"},
-		{"id":"764939320a2192de","type":"file","file":"General Science/Buoyant Force.md","x":-320,"y":-836,"width":400,"height":307}
+		{"id":"764939320a2192de","type":"file","file":"General Science/Fluid/Buoyant Force.md","x":-320,"y":-836,"width":400,"height":307}
 	],
 	"edges":[
 		{"id":"5f53d0fde8049249","fromNode":"75571b6c9f56b7c6","fromSide":"left","toNode":"864f118868febdf5","toSide":"right"},
