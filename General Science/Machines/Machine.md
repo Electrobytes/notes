@@ -1,0 +1,1 @@
+Machines change the direction or magnitude of force, reducing the force needed to exert on a given object. There are six [[Simple Machine|simple machines]]. and these can be combined to create [[Compound Machine|compound machines]]. The machine's efficiency is called the [[Mechanical Advantage|mechanical advantage]].

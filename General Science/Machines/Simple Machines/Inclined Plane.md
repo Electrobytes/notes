@@ -1,0 +1,1 @@
+Inclined plane is a tilted surface to assist the raising or lowering of an object by simply sliding on it.

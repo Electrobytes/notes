@@ -1,0 +1,1 @@
+The law of conservation of charge states that an electric charge can only be transferred from one place to another with varying conductivity and resistivity, and these can be classified as [[Conductor|conductors]] and [[Insulator|insulators]].

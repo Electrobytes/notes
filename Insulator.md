@@ -1,0 +1,1 @@
+Insulators allow less electric charge to pass through it, suited as coating to avoid electric shocks and short circuits.

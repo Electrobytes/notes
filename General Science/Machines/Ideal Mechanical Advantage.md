@@ -1,0 +1,1 @@
+The ideal mechanical advantage only takes into consideration the dimensions of a machine.

@@ -1,0 +1,1 @@
+A conductor has high conductivity and low resistivity, ideal for transferring electricity.

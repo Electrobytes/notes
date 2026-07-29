@@ -1,0 +1,1 @@
+The actual mechanical advantage also considers the dissipative forces which are forces that introduces discrepancies from the ideal mechanical advantage such as friction.
