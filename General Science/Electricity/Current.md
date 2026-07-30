@@ -1,0 +1,1 @@
+Current is the amount of electric charges passing through a point, and it is measured in amperes ($A$).

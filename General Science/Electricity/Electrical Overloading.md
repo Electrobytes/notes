@@ -1,0 +1,1 @@
+Electrical Overloading occurs when there are more current than it is designed to, and this may lead to multiple consequences such as [[Joule Heating|joule heating]].

@@ -1,0 +1,1 @@
+Electric circuit is the path where electricity flows through. It may be [[Open Circuit|opened]] or [[Close circuit|closed]], but when to much current passes through it, it may lead to [[Electrical Overloading|electrical overloading]].

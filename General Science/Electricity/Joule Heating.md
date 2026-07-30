@@ -1,0 +1,1 @@
+Joule heating, or ohmic heating, happens where electric energy is converted to heat energy because of resistance, overloading, or etc.

@@ -1,0 +1,1 @@
+An open circuit is where the path is broken; therefore, no current flows.

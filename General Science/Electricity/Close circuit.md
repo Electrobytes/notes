@@ -1,0 +1,1 @@
+A close circuit completes the path; allowing the current to flow.

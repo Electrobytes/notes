@@ -1,0 +1,1 @@
+Voltage refers to the force or "push" that allows electric charges to move around an electric circuit with the unit volts ($V$).
