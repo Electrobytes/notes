@@ -1,0 +1,1 @@
+Cultural awareness means that the person who attains it acknowledges that there are differences between him/her and others, and they might interpret messages varyingly.

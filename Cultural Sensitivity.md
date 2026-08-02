@@ -1,0 +1,1 @@
+Cultural sensitivity is the ability to make oneself's message appropriate to respect all cultures and differences
