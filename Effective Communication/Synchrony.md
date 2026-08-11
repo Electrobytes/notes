@@ -1,0 +1,1 @@
+Synchrony is the harmony of between audiences of a conversation which they effectively use non-verbal communicative strategies to deliver an impactful message.

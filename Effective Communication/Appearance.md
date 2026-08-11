@@ -1,0 +1,1 @@
+Appearance may invoke impressions from others, for example formal attire may imply that the person wearing it holds an executive position at a company.

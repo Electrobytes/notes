@@ -1,0 +1,1 @@
+Artifacts refers to the objects or properties you own or currently holding at a conversation. It commonly associates to a certain occupation that typically uses that object.

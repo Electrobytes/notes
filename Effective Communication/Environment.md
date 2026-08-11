@@ -1,0 +1,1 @@
+The environment also affects the interpretation of the message like weather can correlate to a certain emotion.

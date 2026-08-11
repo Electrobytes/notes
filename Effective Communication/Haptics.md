@@ -1,0 +1,1 @@
+Haptics pertains to physical contact between audiences of a conversation. It suggests about the relationship between them.

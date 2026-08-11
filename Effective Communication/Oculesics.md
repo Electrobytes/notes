@@ -1,0 +1,1 @@
+Oculesics pertains to what a person sees and his/her possible reaction or interpretation to it.
