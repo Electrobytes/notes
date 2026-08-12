@@ -1,0 +1,1 @@
+Vertex, or vertices in plural, is a point in an object where edges meet.

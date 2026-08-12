@@ -1,0 +1,1 @@
+The volume of an object is the capacity found of the said 3D object.

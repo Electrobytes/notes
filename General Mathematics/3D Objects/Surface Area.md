@@ -1,0 +1,1 @@
+The surface area of an object is the accumulated area of all the faces of the said object.

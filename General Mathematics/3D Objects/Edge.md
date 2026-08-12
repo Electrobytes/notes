@@ -1,0 +1,1 @@
+An edge is found between the boundary of two faces.

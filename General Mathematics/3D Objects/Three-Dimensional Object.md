@@ -1,0 +1,1 @@
+Objects that exist in a three-dimensional space have a length, width, and height, and these have a computable [[Surface Area|surface area]] and [[Volume|volume]]. Additionally, they contain [[Vertex|vertices]], [[Edge|edges]], and [[Face|faces]].
