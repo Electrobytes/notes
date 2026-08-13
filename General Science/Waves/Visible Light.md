@@ -1,0 +1,1 @@
+Visible light is a frequency band in the electromagnetic spectrum where sight can be perceive sight, and it exhibits both the behaviors of a wave and a particle as stated by the [[Wave-Particle Duality]].

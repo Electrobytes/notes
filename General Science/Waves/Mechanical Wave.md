@@ -1,0 +1,1 @@
+Mechanical waves are physical disturbances typically expressed as oscillations. These can be either transverse or longitudinal.

@@ -1,0 +1,1 @@
+Unlike transverse wave, longitudinal wave is where the direction of the oscillation and the wave overall is parallel to each other.

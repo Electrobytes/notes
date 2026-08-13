@@ -1,0 +1,1 @@
+Wave-particle duality explains that light expresses both the behaviors of a wave and a particle.

@@ -1,0 +1,1 @@
+Transverse wave is a kind of wave where the direction of the oscillation is perpendicular to the direction of the wave itself.
