@@ -1,0 +1,1 @@
+Globalization is interactivity between nations.

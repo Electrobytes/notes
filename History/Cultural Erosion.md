@@ -1,0 +1,1 @@
+Cultural erosion is the effect of [[Globalization|globalization]] and [[Urbanization|urbanization]] which traditions and its identity are slowly disregarded by younger generations in pursuit of a better livelihood. it can also be caused by a strong influence of a culture causing others to prefer it over their own.

@@ -1,0 +1,1 @@
+Urbanization is the process of a city undergoing a change in infrustructure as more people migrate there.
