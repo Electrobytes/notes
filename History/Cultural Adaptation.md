@@ -1,0 +1,1 @@
+Cultural adaptation is caused by the traditions passed from older generations and the natural resources available in the area.

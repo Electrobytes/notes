@@ -1,0 +1,1 @@
+Adaptation refers to the ability of a person to adjust in order to sruvive. It may be [[Economic Adaptation|economic]], [[Shelter Adaptation|shelter]], or [[Cultural Adaptation|cultural]].

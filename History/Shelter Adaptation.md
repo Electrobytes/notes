@@ -1,0 +1,1 @@
+Shelter adaptation refers to the materials used in the construction of a house for it to survive the climate and condition there.

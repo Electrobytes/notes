@@ -1,0 +1,1 @@
+Pantayong pananaw, or in literal translation: our perspective, is an idea which states that the natives of a place will describe it and its history better than outsiders.

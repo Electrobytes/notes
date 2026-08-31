@@ -1,0 +1,1 @@
+Economic adaptation changes the way of living of a person since different environments have varying needs and demands, and utilizing the abundancy of certain resources to thrive.

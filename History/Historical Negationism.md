@@ -1,0 +1,1 @@
+Historical negationism is the fabrication or alteration of history for personal gain.

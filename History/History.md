@@ -1,0 +1,1 @@
+History is the study of the past, typically using written texts as evidence. It started as writing systems emerge such as the cuneiform; therefore, events occured before that are considered as pre-historic. History comprises of people, events, and culture (PEC).

@@ -1,0 +1,1 @@
+Historical Consciousness refers to the awareness and understanding of past events and timeline which includes reasoning of the causes and effects and delving deeper to the minds of the people of the past especially those with significant legacy.
