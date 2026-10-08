@@ -1,4 +1,4 @@
-Standard deviation can be simply defined as the sqaure root of variance.
+Standard deviation can be simply defined as the square root of variance.
 $$
 \sqrt{\sigma^2} \\
 \text{or} \\
