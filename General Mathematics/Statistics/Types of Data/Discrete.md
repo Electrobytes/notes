@@ -1,0 +1,1 @@
+Discrete data refers to quantities and answers the question "how many?" Hence, they are exclusively counting numbers.

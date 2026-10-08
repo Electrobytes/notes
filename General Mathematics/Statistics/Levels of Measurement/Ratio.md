@@ -1,0 +1,1 @@
+Ratio is the highest level of measurement since it comparison can be done with precision and the value of zero ($0$) mean nothing.

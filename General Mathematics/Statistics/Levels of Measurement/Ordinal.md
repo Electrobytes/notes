@@ -1,0 +1,1 @@
+Ordinal has the features of nominal but the categories can be logically sorted.

@@ -1,0 +1,1 @@
+Continuous data answers the question "how much?"  and typically refer to measurement.

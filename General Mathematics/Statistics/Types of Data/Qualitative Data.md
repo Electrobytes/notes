@@ -1,0 +1,1 @@
+Qualitative data are those that cannot be represented by numbers.

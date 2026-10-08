@@ -1,0 +1,1 @@
+Nominal is almost synonymous to categorical since it does not feature numbers and cannot be logically arrange.

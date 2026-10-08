@@ -1,0 +1,1 @@
+Interval is the lowest level of measurement introducing numbers; hence, data can now be compared with each other with precision; however, the value of zero ($0$) does not mean it is non-existent or nothing.

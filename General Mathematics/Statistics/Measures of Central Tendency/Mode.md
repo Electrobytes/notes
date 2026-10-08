@@ -1,0 +1,1 @@
+Mode is the most frequent value occurring in a data. If there are multiple values considered as mode, it is called multimodal.

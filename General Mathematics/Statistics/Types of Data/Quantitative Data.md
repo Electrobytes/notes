@@ -1,0 +1,1 @@
+Quantitative Data are those that **can** be numerically represented.
