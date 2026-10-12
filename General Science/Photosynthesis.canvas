@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"0990bc216dcbc260","x":-160,"y":140,"width":895,"height":100,"type":"group","label":"Products"},
+		{"id":"b9ed728495706ee5","x":-380,"y":-200,"width":190,"height":330,"type":"group","label":"Reactants"},
+		{"id":"5aad638d8c061fec","x":700,"y":-200,"width":240,"height":101,"type":"group","label":"Reactants"},
+		{"id":"abe40a18df3b44c5","type":"text","text":"Light-Dependent Reaction\n- Done in the Thylakoid","x":-190,"y":-79,"width":250,"height":79},
+		{"id":"db2560e16960a487","type":"text","text":"Calvin Cycle\n- Occurs in the Stroma","x":500,"y":-99,"width":180,"height":119},
+		{"id":"be26d9af2382d30e","type":"text","text":"$ATP$","x":180,"y":-210,"width":104,"height":60},
+		{"id":"afa0721d2a5cf58c","type":"text","text":"$NADPH$","x":180,"y":-300,"width":104,"height":60},
+		{"id":"589aa329e876e751","type":"text","text":"Water ($2H_20$)","x":-360,"y":-180,"width":150,"height":60},
+		{"id":"072de2a5d291d5de","type":"text","text":"Light Energy","x":-355,"y":50,"width":140,"height":60},
+		{"id":"d6b4c1cccbcf4e33","type":"text","text":"Carbon Dioxide ($CO_2$)","x":720,"y":-180,"width":200,"height":60},
+		{"id":"6407709cf5edc929","type":"text","text":"Oxygen ($O_2$)","x":-140,"y":160,"width":150,"height":60},
+		{"id":"624f38339d9a4eae","type":"text","text":"Glucose ($C_6H_{12}O_6$)","x":465,"y":160,"width":250,"height":60},
+		{"id":"f385ee683ce01e11","type":"text","text":"$NADP^+$","x":180,"y":-29,"width":104,"height":59},
+		{"id":"3a79316b2dd5702e","type":"text","text":"ADP","x":180,"y":50,"width":104,"height":60}
+	],
+	"edges":[
+		{"id":"5c7530708e02621e","fromNode":"589aa329e876e751","fromSide":"bottom","toNode":"abe40a18df3b44c5","toSide":"left"},
+		{"id":"ad38b2b14c6bfbca","fromNode":"abe40a18df3b44c5","fromSide":"bottom","toNode":"6407709cf5edc929","toSide":"top"},
+		{"id":"77d19cd2b48747b3","fromNode":"abe40a18df3b44c5","fromSide":"top","toNode":"afa0721d2a5cf58c","toSide":"left"},
+		{"id":"1efe5f4cc12e14fb","fromNode":"afa0721d2a5cf58c","fromSide":"right","toNode":"db2560e16960a487","toSide":"top"},
+		{"id":"d88ad5599baa243d","fromNode":"be26d9af2382d30e","fromSide":"right","toNode":"db2560e16960a487","toSide":"top"},
+		{"id":"6d9130d669a6c0ea","fromNode":"d6b4c1cccbcf4e33","fromSide":"bottom","toNode":"db2560e16960a487","toSide":"right"},
+		{"id":"7dbadd87605808fc","fromNode":"db2560e16960a487","fromSide":"bottom","toNode":"624f38339d9a4eae","toSide":"top"},
+		{"id":"7bfbd9c6218a37ab","fromNode":"db2560e16960a487","fromSide":"left","toNode":"f385ee683ce01e11","toSide":"right"},
+		{"id":"95313bc9e4d50967","fromNode":"f385ee683ce01e11","fromSide":"left","toNode":"abe40a18df3b44c5","toSide":"right"},
+		{"id":"5074d81e5f0cd52e","fromNode":"3a79316b2dd5702e","fromSide":"left","toNode":"abe40a18df3b44c5","toSide":"right"},
+		{"id":"22a1fe4ecf3f89ad","fromNode":"db2560e16960a487","fromSide":"left","toNode":"3a79316b2dd5702e","toSide":"right"},
+		{"id":"25aabb82c0f36395","fromNode":"abe40a18df3b44c5","fromSide":"top","toNode":"be26d9af2382d30e","toSide":"left"},
+		{"id":"ed8ea52394384ecb","fromNode":"072de2a5d291d5de","fromSide":"top","toNode":"abe40a18df3b44c5","toSide":"left"}
+	]
+}
