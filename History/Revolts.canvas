@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"9d960bd717188ead","x":-320,"y":-200,"width":1068,"height":400,"type":"group","label":"Named after a person"},
+		{"id":"704ef05948ade7f4","x":580,"y":100,"width":860,"height":100,"type":"group","label":"Refusal for priesthood"},
+		{"id":"f0561772b0d52047","x":-320,"y":-60,"width":828,"height":100,"type":"group","label":"Religious"},
+		{"id":"3d42b83aebdd0121","x":-300,"y":-40,"width":125,"height":60,"type":"text","text":"Tamblot"},
+		{"id":"20538f3dd02cb4ac","x":-100,"y":-40,"width":125,"height":60,"type":"text","text":"Bangkaw"},
+		{"id":"426943caba885762","x":160,"y":-180,"width":120,"height":60,"type":"text","text":"Sumuroy"},
+		{"id":"a2f35bed4eb40452","x":400,"y":-40,"width":88,"height":60,"type":"text","text":"Tapar"},
+		{"id":"4a645492a4915e26","x":600,"y":120,"width":128,"height":60,"type":"text","text":"Dagohoy"},
+		{"id":"9379c338c30b3f58","x":780,"y":120,"width":116,"height":60,"type":"text","text":"Tagalog"},
+		{"id":"378ef1913d2468de","x":1000,"y":-40,"width":80,"height":60,"type":"text","text":"Basi"},
+		{"id":"9febe4ceeb975419","x":1200,"y":120,"width":211,"height":60,"type":"text","text":"Cofradia de San Jose"}
+	],
+	"edges":[
+		{"id":"28b3bd963920c480","fromNode":"3d42b83aebdd0121","fromSide":"right","toNode":"20538f3dd02cb4ac","toSide":"left"},
+		{"id":"4b3e815df9b08218","fromNode":"20538f3dd02cb4ac","fromSide":"right","toNode":"426943caba885762","toSide":"left"},
+		{"id":"59e84296530aef54","fromNode":"426943caba885762","fromSide":"right","toNode":"a2f35bed4eb40452","toSide":"left"},
+		{"id":"951736e580e28ed9","fromNode":"a2f35bed4eb40452","fromSide":"right","toNode":"4a645492a4915e26","toSide":"left"},
+		{"id":"e1dab913bbe2ee2b","fromNode":"4a645492a4915e26","fromSide":"right","toNode":"9379c338c30b3f58","toSide":"left"},
+		{"id":"5cf220ed681a696f","fromNode":"9379c338c30b3f58","fromSide":"right","toNode":"378ef1913d2468de","toSide":"left"},
+		{"id":"b11b04b8828d5a3c","fromNode":"378ef1913d2468de","fromSide":"right","toNode":"9febe4ceeb975419","toSide":"left"}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"9fbf02bd53cb8e98","type":"text","text":"Spanish Monarch","x":-120,"y":-340,"width":180,"height":60},
+		{"id":"28e358f701d40db6","type":"text","text":"Colonial Government","x":-135,"y":-200,"width":210,"height":60},
+		{"id":"63aaf6254ae768c1","type":"text","text":"Governor-General\n(Executive Branch)","x":-360,"y":-100,"width":180,"height":80},
+		{"id":"0df1b4100c2922e9","type":"text","text":"Judicial Branch","x":100,"y":-90,"width":160,"height":60},
+		{"id":"db1f5f175b207fef","type":"text","text":"Provincial Government Alcaldia","x":-377,"y":120,"width":215,"height":60},
+		{"id":"7a8d85db41d32eb4","type":"text","text":"Municipal Government Corrigimiento","x":-135,"y":120,"width":210,"height":60},
+		{"id":"4df8a7d5b2d4e209","type":"text","text":"City Government Ayuntamiento","x":100,"y":120,"width":185,"height":60},
+		{"id":"e08d126ac647fb3d","type":"text","text":"Pueblos/Towns\n(Gobernadorcillos)","x":-365,"y":300,"width":192,"height":60},
+		{"id":"4892c13ba02cd56a","type":"text","text":"Cabildo City Council","x":256,"y":330,"width":210,"height":60},
+		{"id":"4445e409f09df772","type":"text","text":"Aguacil Mayor","x":466,"y":520,"width":158,"height":60},
+		{"id":"8f9b4adde8793fd1","type":"text","text":"Escribando","x":391,"y":610,"width":125,"height":60},
+		{"id":"8729c302de74bc3a","type":"text","text":"Regidores","x":243,"y":610,"width":125,"height":60},
+		{"id":"081a67e47749159c","type":"text","text":"Alcalde","x":193,"y":520,"width":100,"height":60},
+		{"id":"e738ffe1b0f46b5c","type":"text","text":"Barrios\n(Cabeza de Barangay)","x":-162,"y":550,"width":214,"height":60}
+	],
+	"edges":[
+		{"id":"29894bbabfe23e39","fromNode":"9fbf02bd53cb8e98","fromSide":"bottom","toNode":"28e358f701d40db6","toSide":"top"},
+		{"id":"875e7d77b9727259","fromNode":"28e358f701d40db6","fromSide":"left","toNode":"63aaf6254ae768c1","toSide":"top"},
+		{"id":"f82e4ac33a4bd087","fromNode":"28e358f701d40db6","fromSide":"right","toNode":"0df1b4100c2922e9","toSide":"top"},
+		{"id":"6f3f502d8d5ecbf0","fromNode":"28e358f701d40db6","fromSide":"bottom","toNode":"db1f5f175b207fef","toSide":"top"},
+		{"id":"8ac0e1cd95688e27","fromNode":"28e358f701d40db6","fromSide":"bottom","toNode":"7a8d85db41d32eb4","toSide":"top"},
+		{"id":"871f0bde0ef778c4","fromNode":"28e358f701d40db6","fromSide":"bottom","toNode":"4df8a7d5b2d4e209","toSide":"top"},
+		{"id":"d90d4f800cbf51e4","fromNode":"db1f5f175b207fef","fromSide":"bottom","toNode":"e08d126ac647fb3d","toSide":"top"},
+		{"id":"7d5a548099a3f665","fromNode":"e08d126ac647fb3d","fromSide":"bottom","toNode":"e738ffe1b0f46b5c","toSide":"top"},
+		{"id":"243c39bc073b7fcf","fromNode":"4df8a7d5b2d4e209","fromSide":"bottom","toNode":"4892c13ba02cd56a","toSide":"top"},
+		{"id":"0f2fb98f00e3a46d","fromNode":"4892c13ba02cd56a","fromSide":"bottom","toNode":"081a67e47749159c","toSide":"top"},
+		{"id":"162ca38490aec1de","fromNode":"4892c13ba02cd56a","fromSide":"bottom","toNode":"8729c302de74bc3a","toSide":"top"},
+		{"id":"b94cd6ce10a906a6","fromNode":"4892c13ba02cd56a","fromSide":"bottom","toNode":"4445e409f09df772","toSide":"top"},
+		{"id":"c62d4e5d738295fd","fromNode":"4892c13ba02cd56a","fromSide":"bottom","toNode":"8f9b4adde8793fd1","toSide":"top"},
+		{"id":"e8038eb1ca2a58f3","fromNode":"4df8a7d5b2d4e209","fromSide":"bottom","toNode":"e738ffe1b0f46b5c","toSide":"top"}
+	]
+}
