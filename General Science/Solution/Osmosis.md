@@ -1,0 +1,1 @@
+Osmosis is the process of liquid to transfer or move around to balance solute concentration. it is measured by its [[Tonicity|tonicity]].

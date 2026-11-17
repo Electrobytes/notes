@@ -1,0 +1,1 @@
+Hypotonic refers to where a part of the space has less concentration than the other part, causing the liquid to rush from the initial part to the other part.

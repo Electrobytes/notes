@@ -1,0 +1,1 @@
+Cell is the most basic form of life. It constantly requires [[Cellular Nutrients|nutrients]] and energy to survive.

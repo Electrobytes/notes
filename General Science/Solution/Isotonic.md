@@ -1,0 +1,1 @@
+Isotonic means that both parts of the space have equal concentration and do not require any balancing.

@@ -1,0 +1,1 @@
+Hypertonic is where a part of the space is more concentrated than the other part, causing the liquid to move from the 2nd part to the initial one. 

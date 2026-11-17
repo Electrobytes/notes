@@ -1,0 +1,1 @@
+Energy producing nutrients are substances that can be converted to energy after a biological process, typically catabolism.
