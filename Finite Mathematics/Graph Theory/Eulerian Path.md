@@ -1,0 +1,1 @@
+Eulerian path is a graph where every edge can be visited only once. It is the superset of [[Eulerian Circuit|Eulerian cycle]].

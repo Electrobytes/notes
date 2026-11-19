@@ -1,0 +1,1 @@
+If an Eulerian path can end on the same vertex as it started, then it is considered as an Eulerian circuit.
